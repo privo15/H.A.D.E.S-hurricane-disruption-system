@@ -18,6 +18,7 @@ The mobile platform is split into 5 core integrated subsystems:
 * **Remote Pilotage & Auxiliary Systems:** Unmanned automated controls steered from a designated maritime safe zone.
 
 ![H.A.D.E.S Platform Diagram](./images/system_diagram.png)
+
 *Figure 1: Conceptual rendering of the H.A.D.E.S unmanned barge configuration.*
 
 ---
