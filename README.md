@@ -34,6 +34,6 @@ Instead of relying on stationary coastal defense barriers, H.A.D.E.S utilizes a 
 ---
 
 ## 🤝 Project Origin & Future Scale
-This project was originally conceptualized during my university studies in 2019-2020. While initial prototyping metrics were highly conservative, the modern evolution of **Floating Offshore Wind (FOW)** and **automated marine vessels** aligns perfectly with the core thesis of H.A.D.E.S. 
+This project was originally conceptualized during my university studies in 2019. While initial prototyping metrics were highly conservative, the modern evolution of **Floating Offshore Wind (FOW)** and **automated marine vessels** aligns perfectly with the core thesis of H.A.D.E.S. 
 
 *For inquiries or collaboration regarding this clean-tech architecture, feel free to connect via my resume or profile.*
