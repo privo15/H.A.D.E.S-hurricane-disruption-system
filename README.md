@@ -5,7 +5,7 @@ Autonomous marine fleet concept designed to disrupt hurricane systems and harves
 ## 🌊 Overview
 H.A.D.E.S is a macro-engineering conceptual framework designed to disrupt the feedback loops of fully developed hurricane systems. By deploying an autonomous, mobile fleet of semi-submersible wind-harvesting barges directly into a storm's trajectory, the system extracts destructive surface kinetic energy, downgrading the storm's severity before it makes landfall.
 
-📄 **[View Full Proposal PDF](documentation/Hurricane Killer.pdf)**
+📄 **[View Full Proposal PDF](./documentation/Hurricane Killer.pdf)**
 
 ---
 
